@@ -1,9 +1,11 @@
+import VehicleList from "../components/VehicleList"
 
 const Outstation = () => {
 
     return (
         <div>
-            OutStation
+
+            <VehicleList Title={'OUTSTATION'} />
         </div>
     )
 }

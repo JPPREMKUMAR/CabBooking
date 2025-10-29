@@ -1,12 +1,16 @@
 
-const InnovaTaxi = () => {
+import VehicleList from "../components/VehicleList"
+
+
+const Innovataxi = () => {
 
     return (
         <div>
-            InnovaTaxi
+            <VehicleList Title={'INNOVA TAXI'} />
+
         </div>
     )
 }
 
 
-export default InnovaTaxi
+export default Innovataxi
