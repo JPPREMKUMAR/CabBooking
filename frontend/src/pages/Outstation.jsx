@@ -1,14 +1,9 @@
 
-
-
 const Outstation = () => {
-
 
     return (
         <div>
-
-
-            <h1>Outstation</h1>
+            OutStation
         </div>
     )
 }
